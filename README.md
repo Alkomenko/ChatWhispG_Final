@@ -4,12 +4,20 @@
 
 ## Описание проекта
 
-Telegram-бот создан для определения жанра фильма по его описанию. Пользователь отправляет боту текст, содержащий описание фильма, а бот анализирует текст и возвращает предполагаемый жанр с соответствующим изображением.
+Telegram-бот создан для анализа текста с целью выявления и блокировки нежелательного контента. Пользователь отправляет боту сообщение, которое анализируется с помощью технологии машинного обучения, после чего бот классифицирует текст как соответствующий или не соответствующий заданным фильтрам (ненормативная лексика, реклама, предложения о нелегальной продукции) и предпринимает действия по блокировке или обработке контента.
 
-## Начало работы бота 
-![Screenshot_6](https://github.com/user-attachments/assets/43169290-058a-4ee2-af7b-9c40f2e6d125)
-![Screenshot_5](https://github.com/user-attachments/assets/fe229198-07a2-4a18-bba1-72484c452bc7)
-![Screenshot_4](https://github.com/user-attachments/assets/8bf0cd5b-2540-4e5e-9efd-fda6e782c8ee)
-![Screenshot_3](https://github.com/user-attachments/assets/3aac6685-74f9-494b-a121-050abfe33c72)
-![Screenshot_2](https://github.com/user-attachments/assets/27bb9876-d1d4-486e-9020-5d3d60f2c3fc)
-![photo_2024-12-17_20-23-22](https://github.com/user-attachments/assets/8af4756e-7e53-47ad-8c76-74e23ca99c3b)
+## Визуальное оформление android/ПК
+![photo_2024-12-17_20-59-09](https://github.com/user-attachments/assets/b4972d04-2ea0-432b-9023-dac06e67fe6f)
+![Screenshot_2](https://github.com/user-attachments/assets/2124476f-aa30-4945-809a-cc9ede1c52cd)
+
+## Работа бота, модуль "Брань"
+![photo_2024-12-17_20-23-22](https://github.com/user-attachments/assets/d9d4cd6e-a865-4e00-8cc3-f0989ce3dccf)
+
+## Работа бота, модуль "Реклама"
+![Screenshot_6](https://github.com/user-attachments/assets/6dd640c4-d2f5-4677-9df4-a84b90a89c55)
+
+## Админская часть. Выключение/включение модулей
+![Screenshot_4](https://github.com/user-attachments/assets/8b38f396-429f-476a-a515-82bfbf6ecb16)
+
+## Админская часть. Статистика
+![Screenshot_5](https://github.com/user-attachments/assets/d954ad44-fee0-4391-8686-edcac71ec1d0)
