@@ -6,18 +6,10 @@
 
 Telegram-бот создан для определения жанра фильма по его описанию. Пользователь отправляет боту текст, содержащий описание фильма, а бот анализирует текст и возвращает предполагаемый жанр с соответствующим изображением.
 
-## Визуальное оформление
-![photo_2024-12-06_15-42-31](https://github.com/user-attachments/assets/376b2be4-42b2-4023-92c2-46e3cfeb9513)
-
 ## Начало работы бота 
-![photo_2024-12-06_15-42-33](https://github.com/user-attachments/assets/3f4c7dd4-9b0b-4ba7-af35-c107fcfddbed)
-
-
-При нажатии кнопки старт, бот здоровается с пользователем и предлагает отправить ему описание филмьма.
-![photo_2024-12-06_15-42-34](https://github.com/user-attachments/assets/c2361f80-18cc-4a61-9cf5-c35be76e0a22)
-
-##Работа бота
-
-![photo_2024-12-06_15-42-35](https://github.com/user-attachments/assets/82359dd6-6e9e-47c4-bf48-d46ea9c45b98)
-
-Пользователь отправляет боту описание фильма, бот определяет, и отвечает какой это жанр.
+![Screenshot_6](https://github.com/user-attachments/assets/43169290-058a-4ee2-af7b-9c40f2e6d125)
+![Screenshot_5](https://github.com/user-attachments/assets/fe229198-07a2-4a18-bba1-72484c452bc7)
+![Screenshot_4](https://github.com/user-attachments/assets/8bf0cd5b-2540-4e5e-9efd-fda6e782c8ee)
+![Screenshot_3](https://github.com/user-attachments/assets/3aac6685-74f9-494b-a121-050abfe33c72)
+![Screenshot_2](https://github.com/user-attachments/assets/27bb9876-d1d4-486e-9020-5d3d60f2c3fc)
+![photo_2024-12-17_20-23-22](https://github.com/user-attachments/assets/8af4756e-7e53-47ad-8c76-74e23ca99c3b)
